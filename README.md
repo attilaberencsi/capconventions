@@ -11,4 +11,12 @@ https://developers.sap.com/tutorials/btp-cap-beginner-golden-path.html
 
 ## Learn More
 
+### Providing services
+
+- https://cap.cloud.sap/docs/guides/providing-services
+- https://developers.sap.com/tutorials/btp-cap-beginner-golden-path.html
+
+
+
+
 Learn more at https://cap.cloud.sap/docs/get-started/.
